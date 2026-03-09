@@ -1,0 +1,13 @@
+/* Fix for Horizontal Scroll & Smooth Scrolling */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth; /* This enables smooth scrolling site-wide */
+  background-color: #050505;
+}
+
+/* Ensure images don't break layout */
+img {
+  max-width: 100%;
+  height: auto;
+}
