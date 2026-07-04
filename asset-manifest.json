@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shri-Anandam/static/css/main.14a79485.css",
-    "main.js": "/Shri-Anandam/static/js/main.8c102e00.js",
-    "static/js/453.6ca45685.chunk.js": "/Shri-Anandam/static/js/453.6ca45685.chunk.js",
-    "static/media/suite.jpg": "/Shri-Anandam/static/media/suite.77946799c840e443967c.jpg",
-    "static/media/luxury2.jpg": "/Shri-Anandam/static/media/luxury2.81479614ef0b73692a94.jpg",
-    "static/media/banquet.jpg": "/Shri-Anandam/static/media/banquet.0c2fe969a21a283f8841.jpg",
-    "static/media/lawn-4000.jpg": "/Shri-Anandam/static/media/lawn-4000.c3a3c514ec6f664a3002.jpg",
-    "static/media/mpf-hall.jpg": "/Shri-Anandam/static/media/mpf-hall.364102b7ea0300f419f4.jpg",
-    "static/media/Chota.png": "/Shri-Anandam/static/media/Chota.5e527062d30cfb389a3f.png",
-    "static/media/hero2.jpg": "/Shri-Anandam/static/media/hero2.676f23c92deb0a967976.jpg",
-    "static/media/logo.png": "/Shri-Anandam/static/media/logo.3c8af9946f88e1312dbf.png",
-    "index.html": "/Shri-Anandam/index.html",
-    "main.14a79485.css.map": "/Shri-Anandam/static/css/main.14a79485.css.map",
-    "main.8c102e00.js.map": "/Shri-Anandam/static/js/main.8c102e00.js.map",
-    "453.6ca45685.chunk.js.map": "/Shri-Anandam/static/js/453.6ca45685.chunk.js.map"
+    "main.css": "/static/css/main.14a79485.css",
+    "main.js": "/static/js/main.88f53483.js",
+    "static/js/453.6ca45685.chunk.js": "/static/js/453.6ca45685.chunk.js",
+    "static/media/suite.jpg": "/static/media/suite.77946799c840e443967c.jpg",
+    "static/media/luxury2.jpg": "/static/media/luxury2.81479614ef0b73692a94.jpg",
+    "static/media/banquet.jpg": "/static/media/banquet.0c2fe969a21a283f8841.jpg",
+    "static/media/lawn-4000.jpg": "/static/media/lawn-4000.c3a3c514ec6f664a3002.jpg",
+    "static/media/mpf-hall.jpg": "/static/media/mpf-hall.364102b7ea0300f419f4.jpg",
+    "static/media/Chota.png": "/static/media/Chota.5e527062d30cfb389a3f.png",
+    "static/media/hero2.jpg": "/static/media/hero2.676f23c92deb0a967976.jpg",
+    "static/media/logo.png": "/static/media/logo.3c8af9946f88e1312dbf.png",
+    "index.html": "/index.html",
+    "main.14a79485.css.map": "/static/css/main.14a79485.css.map",
+    "main.88f53483.js.map": "/static/js/main.88f53483.js.map",
+    "453.6ca45685.chunk.js.map": "/static/js/453.6ca45685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14a79485.css",
-    "static/js/main.8c102e00.js"
+    "static/js/main.88f53483.js"
   ]
 }
